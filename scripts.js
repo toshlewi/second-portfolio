@@ -1,4 +1,4 @@
-// Theme Toggle
+//  Theme Toggle
 const themeToggle = document.createElement('div');
 themeToggle.className = 'theme-toggle';
 themeToggle.innerHTML = '<i class="fas fa-moon"></i>';
